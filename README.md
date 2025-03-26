@@ -1,5 +1,5 @@
 # Ideal-Sampling
-Aim;
+#Aim;
     implement and analyze ideal sampling using Python colab.
 
 Tools required;
