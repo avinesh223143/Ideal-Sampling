@@ -8,7 +8,7 @@ Tools required;
      google colab software.
 
 Program;
-,,,
+```
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -47,7 +47,7 @@ plt.grid(True)
 plt.legend()
 plt.show()
 
-,,,
+```
 
 Output Waveform;
 
