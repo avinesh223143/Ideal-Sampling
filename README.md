@@ -1,4 +1,4 @@
-#(EX 0)Ideal-Sampling
+# (EX 0)Ideal-Sampling
 ## Date:26/03/25
 ### Aim
 
