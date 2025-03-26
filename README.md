@@ -1,13 +1,13 @@
-# EX0 Ideal-Sampling
+# EX 0 Ideal-Sampling
 ## date:26/03/25
-###Aim; 
+Aim.
     implement and analyze ideal sampling using Python colab.
 
-###Tools required;
+Tools required;
      personal computer,
      google colab software.
 
-###Program;
+Program;
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -46,12 +46,12 @@ plt.grid(True)
 plt.legend()
 plt.show()
 
-###Output Waveform;
+Output Waveform;
 
 ![image](https://github.com/user-attachments/assets/19ab39c7-9adf-41d0-85bd-0baee1071bf3)
 ![image](https://github.com/user-attachments/assets/8d108139-ebea-44af-a5a4-af7d409a82a3)
 ![image](https://github.com/user-attachments/assets/a97c55b4-8e21-4df7-b232-68c5ea8a3c95)
 
-###Results
+Results
 ideal sampling signal will be displayed in separate plots. Thus implemented using python colab.
   
