@@ -1,6 +1,6 @@
 # EX 0 Ideal-Sampling
 ## date:26/03/25
-Aim.
+.Aim
     implement and analyze ideal sampling using Python colab.
 
 Tools required;
