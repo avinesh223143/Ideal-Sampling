@@ -1,4 +1,4 @@
-# Ex1a IDEAL SAMPLING
+# Ex(1A) IDEAL SAMPLING
 ## Date:01/03/25
 ### Aim
 
