@@ -1,5 +1,5 @@
-# Ex1 IDEAL SAMPLING
-## Date:26/03/25
+# Ex1a IDEAL SAMPLING
+## Date:01/03/25
 ### Aim
 
     Implement and analyze ideal sampling using Python colab.
